@@ -1,8 +1,8 @@
 {
   "name": "JavaScript Tips Tab",
-  "manifest_version": 2,
-  "description": "Codecademy JavaScript tips when you open a new tab in Chrome",
-  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "description": "thanks to Codecademy - here is JavaScript tips when you open a new tab in Chrome",
+  "version": "0.0.0.2",
   "permissions": ["management"],
   "chrome_url_overrides": {
     "newtab": "index.html"
